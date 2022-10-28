@@ -119,6 +119,7 @@ def main():
             f_target.write("\n")
         num = num + 1
     f_target.close()
+    
 
     
     create_gif(show_dir)
